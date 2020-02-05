@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff1976d2</color>
+    <color name="colorPrimaryDark">#ff1565c0</color>
+    <color name="colorPrimaryLight">#ff1e88e5</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccentDark">#fff50057</color>
+
+    <color name="initialColor">#4A89EC</color>
+
+    <color name="transparent">#00FFFFFF</color>
+    <color name="mdtp_transparent_black">#7f000000</color>
+    <color name="white_transparency">#b9ffffff</color>
+
+    <color name="mdtp_white">#FFFFFF</color>
+    <color name="mdtp_blue">#1976D2</color>
+
+    <color name="Black">#000000</color>
+    <color name="black_100">#0a0403</color>
+    <color name="black_200">#020101</color>
+    <color name="grey_3">#fff7f7f7</color>
+    <color name="grey_5">#F2F2F2</color>
+    <color name="grey_10">#E6E6E6</color>
+    <color name="grey_20">#CCCCCC</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#ff666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#ff263238</color>
+    <color name="grey_95">#ff1a1a1a</color>
+    <color name="grey_menu_sleected">#2e3d42</color>
+
+    <color name="blue_grey_300">#ff90a4ae</color>
+    <color name="yellow_600">#ffbf00</color>
+    <color name="yellow_700">#fbc02d</color>
+    <color name="yellow_800">#fff9a825</color>
+
+    <color name="amber_800">#ffff8f00</color>
+
+    <color name="blue_100">#94C0E6</color>
+    <color name="blue_300">#64B5F6</color>
+    <color name="blue_500">#ff2196f3</color>
+    <color name="blue_600">#ff1e88e5</color>
+    <color name="blue_800">#1565C0</color>
+    <color name="blue_900">#235987</color>
+    <color name="blue_grey_600">#ff546e7a</color>
+    <color name="blue_grey_800">#37474f</color>
+    <color name="light_blue_500">#ff03a9f4</color>
+
+    <color name="purple_300">#ffba68c8</color>
+    <color name="purple_600">#ff8e24aa</color>
+
+    <color name="overlay_dark_10">#1a000000</color>
+    <color name="overlay_dark_30">#4d000000</color>
+
+    <color name="green_400">#ff66bb6a</color>
+    <color name="green_500">#ff4caf50</color>
+    <color name="green_600">#ff43a047</color>
+    <color name="light_green_400">#ff9ccc65</color>
+
+    <color name="teal_100">#b2dfdb</color>
+    <color name="teal_200">#80cbc4</color>
+    <color name="teal_500">#009688</color>
+    <color name="teal_700">#00796b</color>
+    <color name="indigo_400">#ff5c6bc0</color>
+    <color name="indigo_900">#ff1a237e</color>
+
+    <color name="color1">#747e8b</color>
+    <color name="color2">#6984a3</color>
+    <color name="color3">#abc4e7</color>
+    <color name="color4">#ffdc98</color>
+    <color name="color5">#ff8a7d</color>
+
+    <color name="color6">#415d85</color>
+    <color name="color7">#9fccad</color>
+    <color name="color8">#ffd89c</color>
+    <color name="color9">#ffad98</color>
+    <color name="color10">#f08585</color>
+
+    <color name="color11">#f6d5d5</color>
+    <color name="color12">#90b7c5</color>
+    <color name="color13">#829f87</color>
+    <color name="color14">#876f60</color>
+    <color name="color15">#b05050</color>
+    <color name="color16">#d3866f</color>
+
+    <color name="red_600">#ffe53935</color>
+    <color name="vcode_bottom_icon_bg">#f6a500</color>
+    <color name="vcode_bottom_error_icon_bg">#e84849</color>
+
+    <color name="overlay_light_30">#4dffffff</color>
+    <color name="overlay_dark_50">#80000000</color>
+
+    <color name="orange_300">#ffffb74d</color>
+    <color name="orange_400">#ffffa726</color>
+    <color name="orange_500">#ffff9100</color>
+    <color name="orange_600">#FF4500</color>
+    <color name="deep_orange_500">#ff5722</color>
+    <color name="deep_orange_600">#fff4511e</color>
+
+    <color name="red_900"> #ec1313</color>
+    <color name="pink_100">#ff1a75</color>
+    <color name="pink_200">#ff0040</color>
+    <color name="pink_300">#ff0066</color>
+    <color name="pink_400">#f90667</color>
+    <color name="pink_500">#f20d69</color>
+
+    <color name="bg_row_background">#fa315b</color>
+    <color name="item_name">#535353</color>
+    <color name="description">#a9a9a9</color>
+    <color name="black_00">#000000</color>
+
+    <color name="black_effective">#2a2a2a</color>
+
+</resources>

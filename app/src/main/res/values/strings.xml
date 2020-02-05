@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LocationTrackingApp</string>
+    <string name="medium_lorem_ipsum">Quisque imperdiet nunc at massa dictum volutpat. Etiam id orci ipsum. Integer id ex dignissim</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="title_activity_location_tracking">Map</string>
+</resources>
